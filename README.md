@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> Estudiante del Grado de Ingeniería Informática en la ULL
+
 <!--
 **Ramonizq/Ramonizq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
